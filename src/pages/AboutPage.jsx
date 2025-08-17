@@ -27,7 +27,7 @@ const AboutPage = () => {
         <div className="max-w-sm mx-auto bg-card rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
           <div className="p-6">
             <p className="text-lg font-semibold text-primary arabic-text">
-              صدقة جارية على روح جدي فايز غيضان الميهوب
+              صدقة جارية على روح حامد عبدالله يونس
             </p>
             <p className="mt-1 text-sm text-muted-foreground">رحمه الله وأسكنه فسيح جناته</p>
           </div>
